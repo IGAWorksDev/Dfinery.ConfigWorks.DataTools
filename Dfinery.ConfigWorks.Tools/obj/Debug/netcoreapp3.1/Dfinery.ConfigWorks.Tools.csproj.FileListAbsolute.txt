@@ -1,0 +1,13 @@
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\bin\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.exe
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\bin\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.deps.json
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\bin\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.runtimeconfig.json
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\bin\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.runtimeconfig.dev.json
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\bin\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.dll
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\bin\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.pdb
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\obj\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.csprojAssemblyReference.cache
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\obj\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.AssemblyInfoInputs.cache
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\obj\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.AssemblyInfo.cs
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\obj\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.csproj.CoreCompileInputs.cache
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\obj\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.dll
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\obj\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.pdb
+D:\Dev\Dfinery.ConfigWorks.Tools\Dfinery.ConfigWorks.Tools\obj\Debug\netcoreapp3.1\Dfinery.ConfigWorks.Tools.genruntimeconfig.cache

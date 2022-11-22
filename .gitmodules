@@ -1,0 +1,6 @@
+[submodule "SubModules/configworks.sdk"]
+	path = SubModules/configworks.sdk
+	url = https://github.com/IGAWorksDev/configworks.sdk
+[submodule "SubModules/adbrix.v2.backend.library.models"]
+	path = SubModules/adbrix.v2.backend.library.models
+	url = https://github.com/IGAWorksDev/adbrix.v2.backend.library.models

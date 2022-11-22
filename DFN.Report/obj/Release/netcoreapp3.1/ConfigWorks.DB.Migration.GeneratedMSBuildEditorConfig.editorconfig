@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ConfigWorks.DB.Migration
+build_property.ProjectDir = D:\Dev\Adbrix.Remaster.Api\ConfigWorks.DB.Migration\

@@ -1,0 +1,3 @@
+[submodule "SubModules/configworks.sdk"]
+	path = SubModules/configworks.sdk
+	url = https://github.com/IGAWorksDev/configworks.sdk

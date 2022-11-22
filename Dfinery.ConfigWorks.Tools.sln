@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFN.Report", "DFN.Report\DFN.Report.csproj", "{7E26CACD-45B8-4E4B-8633-AFAE3AFB29F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adbrix.v2.backend.library.models", "SubModules\adbrix.v2.backend.library.models\adbrix.v2.backend.library.models\adbrix.v2.backend.library.models.csproj", "{D7D40B59-593F-435B-B441-DBC2DE3D406E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigWorks.sdk.core", "SubModules\configworks.sdk\ConfigWorks.sdk.core\ConfigWorks.sdk.core.csproj", "{1DC984AE-9359-4F0F-8980-ACE0292ACA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E26CACD-45B8-4E4B-8633-AFAE3AFB29F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E26CACD-45B8-4E4B-8633-AFAE3AFB29F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E26CACD-45B8-4E4B-8633-AFAE3AFB29F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E26CACD-45B8-4E4B-8633-AFAE3AFB29F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D40B59-593F-435B-B441-DBC2DE3D406E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D40B59-593F-435B-B441-DBC2DE3D406E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D40B59-593F-435B-B441-DBC2DE3D406E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D40B59-593F-435B-B441-DBC2DE3D406E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC984AE-9359-4F0F-8980-ACE0292ACA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC984AE-9359-4F0F-8980-ACE0292ACA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC984AE-9359-4F0F-8980-ACE0292ACA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC984AE-9359-4F0F-8980-ACE0292ACA71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
